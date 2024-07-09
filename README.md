@@ -1,5 +1,9 @@
 # Backtest Algorithmic Trading Using Deep Learning
 
+<a href="">
+  <img src="https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/Cover_OPNMTF.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
+</a>
+
 ## Overview
 
 This repository provides a comprehensive guide and implementation of backtesting algorithmic trading strategies using deep learning in Python. It covers the entire process from data collection and preprocessing to strategy implementation and performance analysis.
