@@ -178,37 +178,4 @@ The examples directory contains various example scripts demonstrating different 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new strategies to add.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-```python
-This `README.md` file provides an overview of the repository, installation instructions, and a step-by-step guide to implementing an arbitrage trading strategy using deep learning in Python. The provided Python script is complete and ready to run, covering all necessary steps from data collection to performance analysis.
-```
-
-
-
-```python
-
-```
-
-
-
-```python
-
-```
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
